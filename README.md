@@ -1,5 +1,5 @@
-# OpenPose(tf-pose-estimation)_macOS_environment-setup
-macOSにOpenPoseを環境構築する方法を記載。ターミナルで各コードを上から1行ずつ入力。
+# tf-pose-estimation_macOS_environment-setup
+macOSにtf-pose-estimationを環境構築する方法を記載。ターミナルで各コードを上から1行ずつ入力。
 
 ## 1) Homebrew/wget swig/Xquartzインストール
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
