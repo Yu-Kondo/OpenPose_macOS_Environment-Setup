@@ -1,4 +1,4 @@
-# OpenPose_macOS_environment-setup
+# OpenPose(tf-pose-estimation)_macOS_environment-setup
 macOSにOpenPoseを環境構築する方法を記載。ターミナルで各コードを上から1行ずつ入力。
 
 ## 1) Homebrew/wget swig/Xquartzインストール
